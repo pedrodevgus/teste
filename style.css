@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to right, #5289ff, #00aeff);
+    text-align: center;
+}
+
+.pssw {
+    border-radius: 20px;
+}
+
+.btn {
+    margin: 1.5rem 0 0 0;
+    border-radius: 20px;
+    transition-delay: 0.5s;
+    border-bottom:4px solid #999;
+    font-size: 15px ;
+    padding: 5px;
+    transition: all 0.5s linear;
+    padding: 10px;
+}
+
+.btn:hover {
+background-color: rgb(58, 57, 57);
+transition: all 0.5s linear;
+color:#fff;
+transform: translateY(8px);
+
+}
+
+.baixo {
+    margin-top: 30pc;
+}
