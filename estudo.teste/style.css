@@ -36,5 +36,26 @@ transform: translateY(8px);
 }
 
 .baixo {
-    margin-top: 30pc;
+    margin-top: 10pc;
+}
+
+.baixo:hover{
+    color: #ff0000;
+}
+
+.Henrique:hover {
+transition-duration: 0.5s;
+transition: all 0.5s linear;
+color: #ff0000;
+transform: translateY(4px);
+}
+
+
+.alerta {
+    color: red;
+}
+
+.alerta:hover {
+    transition-duration: 0.5s;
+    transform: translateY(10px);
 }

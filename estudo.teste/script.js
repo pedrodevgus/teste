@@ -14,4 +14,3 @@ if (espaco !== null && espaco.trim() !== "") {
     nomeDisplay.innerText = "Você não inseriu um nome.";
 }
 //guardando a informação da senha do usuário
-let
